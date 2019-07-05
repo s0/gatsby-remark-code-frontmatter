@@ -1,8 +1,7 @@
 # gatsby-remark-code-extra
 
-[![](https://img.shields.io/npm/v/gatsby-remark-code-extra.svg)](https://www.npmjs.com/package/gatsby-remark-code-extra)
+[![](https://img.shields.io/npm/v/gatsby-remark-code-frontmatter.svg)](https://www.npmjs.com/package/gatsby-remark-code-frontmatter)
 
-Add to or transform the HTML output of markdown code blocks
+Extract frontmatter from markdown code blocks, and do interesting things!
 
-
-For for full documentation on the options you can use, please see [the documentation for `remark-code-extra`](https://github.com/samlanning/remark-code-extra#remarkusecodeextra-options), as options are passed directly to that plugin.
+For for full documentation, please see [the documentation for `remark-code-frontmatter`](https://github.com/samlanning/remark-code-frontmatter).
