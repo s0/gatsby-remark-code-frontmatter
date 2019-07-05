@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-remark-code-frontmatter",
+  "version": "0.0.1",
+  "description": "Extract frontmatter from markdown code blocks, and do interesting things!",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "syntax-highlighting",
+    "markdown",
+    "remark"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/samlanning/gatsby-remark-code-frontmatter",
+  "author": "Sam Lanning <sam@samlanning.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  },
+  "dependencies": {
+    "remark-code-frontmatter": "^1.0.0"
+  }
+}
